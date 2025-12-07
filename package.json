@@ -1,13 +1,13 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Jemal-H/CW08.git",
+  "homepage": "https://Jemal-H.github.io/CW08",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
-    "react-bootstrap": "^0.33.1",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "react-bootstrap": "^0.33.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,7 +16,7 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.0.0"
   },
   "browserslist": {
     "production": [

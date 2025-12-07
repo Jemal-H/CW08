@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jemal-H/CW08.git/static/css/main.4971232d.css",
+    "main.js": "/Jemal-H/CW08.git/static/js/main.496e5ba6.js",
+    "index.html": "/Jemal-H/CW08.git/index.html",
+    "main.4971232d.css.map": "/Jemal-H/CW08.git/static/css/main.4971232d.css.map",
+    "main.496e5ba6.js.map": "/Jemal-H/CW08.git/static/js/main.496e5ba6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4971232d.css",
+    "static/js/main.496e5ba6.js"
+  ]
+}
